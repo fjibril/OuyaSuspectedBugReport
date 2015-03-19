@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="alert_title">IAP Sample App</string>
+    <string name="userinfo">Username: %1$s\nUUID: %2$s</string>
+</resources>
